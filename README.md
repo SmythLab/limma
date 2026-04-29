@@ -8,6 +8,7 @@ The following vignettes and example analyses using are available:
 * [Datasets used in the limma User's Guide](https://bioinf.wehi.edu.au/limma/index.html)
 * [limma Reference Manual (pdf)](https://bioconductor.org/packages/release/bioc/manuals/limma/man/limma.pdf)
 * [RNA-seq analysis is easy as 1-2-3 with limma, Glimma and edgeR](https://bioconductor.org/packages/release/workflows/vignettes/RNAseq123/inst/doc/limmaWorkflow.html)
+* [GSE118337: example analysis with human Agilent microarrays](/docs/GSE118337.html)
 
 **References**
 
